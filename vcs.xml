@@ -10,4 +10,7 @@
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/Projects" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="/Volumes/LCAPPUCCIO" />
+  </component>
 </application>
