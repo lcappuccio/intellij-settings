@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'gitbrowser'" />
-    <option name="defaultScopeName" value="Project 'gitbrowser'" />
+    <option name="customScope" value="File '[graph-csv-generator] - ...\src\main\java\org\systemexception\graphgenerator\pojo\CsvWriter.java'" />
+    <option name="defaultScopeName" value="File '[graph-csv-generator] - ...\src\main\java\org\systemexception\graphgenerator\pojo\CsvWriter.java'" />
     <option name="localCaseSensitive" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'gitbrowser'" />
+    <option name="SEARCH_SCOPE" value="File '[graph-csv-generator] - ...\src\main\java\org\systemexception\graphgenerator\pojo\CsvWriter.java'" />
   </component>
 </application>
