@@ -1,4 +1,8 @@
 <application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
+  </component>
   <component name="UISettings">
     <option name="MAX_LOOKUP_WIDTH2" value="669" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
