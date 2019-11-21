@@ -5,10 +5,12 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".bindings" type="PLAIN_TEXT" />
+      <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="fingerprint" type="PLAIN_TEXT" />
       <mapping ext="license" type="PLAIN_TEXT" />
       <mapping ext="gbr" type="PLAIN_TEXT" />
       <mapping ext="exec" type="PLAIN_TEXT" />
+      <removed_mapping ext="dll" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
