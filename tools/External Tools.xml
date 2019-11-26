@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="Remote Machine Learning Service" description="Remote Machine Learning Service" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+    <exec>
+      <option name="COMMAND" value="C:\Users\leona\Desktop\RemoteML32Service\StartML32Service.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/RemoteML32Service" />
+    </exec>
+  </tool>
+</toolSet>
