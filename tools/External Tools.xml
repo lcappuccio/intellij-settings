@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\leona\Desktop\RemoteML32Service\StartML32Service.bat" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/RemoteML32Service" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/leona/Desktop/RemoteML32Service" />
     </exec>
   </tool>
 </toolSet>
