@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\flash\src\main\java\com\orbotech\flash\swing\setup\dpix\nonshort\DpixNonShortInspectorSetupDialog.java [flash]'" />
-    <option name="defaultScopeName" value="File '...\flash\src\main\java\com\orbotech\flash\swing\setup\dpix\nonshort\DpixNonShortInspectorSetupDialog.java [flash]'" />
-    <option name="SEARCH_SCOPE" value="File '...\flash\src\main\java\com\orbotech\flash\swing\setup\dpix\nonshort\DpixNonShortInspectorSetupDialog.java [flash]'" />
+    <option name="customScope" value="File '...\flash\src\main\java\com\orbotech\flash\ip\inspector\barcode\BarcodeZXing.java [flash]'" />
+    <option name="defaultScopeName" value="File '...\flash\src\main\java\com\orbotech\flash\ip\inspector\barcode\BarcodeZXing.java [flash]'" />
+    <option name="SEARCH_SCOPE" value="File '...\flash\src\main\java\com\orbotech\flash\ip\inspector\barcode\BarcodeZXing.java [flash]'" />
   </component>
 </application>
