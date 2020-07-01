@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\flash\src\main\java\com\orbotech\flash\ip\inspector\position\AnyPositionInspector.java [flash]'" />
-    <option name="defaultScopeName" value="File '...\flash\src\main\java\com\orbotech\flash\ip\inspector\position\AnyPositionInspector.java [flash]'" />
-    <option name="SEARCH_SCOPE" value="File '...\flash\src\main\java\com\orbotech\flash\ip\inspector\position\AnyPositionInspector.java [flash]'" />
+    <option name="customScope" value="File '...\flash\src\main\java\com\orbotech\flash\ip\inspector\position\AnyPositionParametersFactory.java [flash]'" />
+    <option name="defaultScopeName" value="File '...\flash\src\main\java\com\orbotech\flash\ip\inspector\position\AnyPositionParametersFactory.java [flash]'" />
+    <option name="SEARCH_SCOPE" value="File '...\flash\src\main\java\com\orbotech\flash\ip\inspector\position\AnyPositionParametersFactory.java [flash]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
