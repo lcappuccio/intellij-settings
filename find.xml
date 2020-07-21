@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\flash\src\main\java\com\orbotech\flash\util\opencv\OpencvVisualization.java [flash]'" />
-    <option name="defaultScopeName" value="File '...\flash\src\main\java\com\orbotech\flash\util\opencv\OpencvVisualization.java [flash]'" />
-    <option name="SEARCH_SCOPE" value="File '...\flash\src\main\java\com\orbotech\flash\util\opencv\OpencvVisualization.java [flash]'" />
+    <option name="customScope" value="File '...\flash\src\main\java\com\orbotech\flash\ip\inspector\tba\throughhole\missing\clinch\ClinchTBAMissingFeatureMatrix.java [flash]'" />
+    <option name="defaultScopeName" value="File '...\flash\src\main\java\com\orbotech\flash\ip\inspector\tba\throughhole\missing\clinch\ClinchTBAMissingFeatureMatrix.java [flash]'" />
+    <option name="SEARCH_SCOPE" value="File '...\flash\src\main\java\com\orbotech\flash\ip\inspector\tba\throughhole\missing\clinch\ClinchTBAMissingFeatureMatrix.java [flash]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
