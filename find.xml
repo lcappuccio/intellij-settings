@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Directory '...\flash\src\main\java\com\orbotech\flash\swing\action\inspect\ipc [flash]'" />
+    <option name="defaultScopeName" value="Directory '...\flash\src\main\java\com\orbotech\flash\swing\action\inspect\ipc [flash]'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\flash\src\main\java\com\orbotech\flash\swing\action\inspect\ipc [flash]'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
