@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\flash-window-basics\src\main\java\com\orbotech\flash\geom\coordtransform\model\board\PluggableBoardModel.java [flash-window-basics]'" />
-    <option name="defaultScopeName" value="File '...\flash-window-basics\src\main\java\com\orbotech\flash\geom\coordtransform\model\board\PluggableBoardModel.java [flash-window-basics]'" />
-    <option name="SEARCH_SCOPE" value="File '...\flash-window-basics\src\main\java\com\orbotech\flash\geom\coordtransform\model\board\PluggableBoardModel.java [flash-window-basics]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
