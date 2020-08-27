@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\flash\src\main\java\com\orbotech\selfprogramming\SPAction.java [flash]'" />
-    <option name="defaultScopeName" value="File '...\flash\src\main\java\com\orbotech\selfprogramming\SPAction.java [flash]'" />
-    <option name="SEARCH_SCOPE" value="File '...\flash\src\main\java\com\orbotech\selfprogramming\SPAction.java [flash]'" />
+    <option name="customScope" value="Module 'self-programming'" />
+    <option name="defaultScopeName" value="Module 'self-programming'" />
+    <option name="SEARCH_SCOPE" value="Module 'self-programming'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
