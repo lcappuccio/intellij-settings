@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\flash\src\main\java\com\orbotech\flash\ip\inspector\pth\diode\DiodeInspector.java [flash]'" />
-    <option name="defaultScopeName" value="File '...\flash\src\main\java\com\orbotech\flash\ip\inspector\pth\diode\DiodeInspector.java [flash]'" />
-    <option name="SEARCH_SCOPE" value="File '...\flash\src\main\java\com\orbotech\flash\ip\inspector\pth\diode\DiodeInspector.java [flash]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
