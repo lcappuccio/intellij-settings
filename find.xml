@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\license-generator\src\main\java\com\delvitech\license\generator\LicenseGeneratorGui.java [license-generator]'" />
-    <option name="defaultScopeName" value="File '...\license-generator\src\main\java\com\delvitech\license\generator\LicenseGeneratorGui.java [license-generator]'" />
-    <option name="SEARCH_SCOPE" value="File '...\license-generator\src\main\java\com\delvitech\license\generator\LicenseGeneratorGui.java [license-generator]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
