@@ -8,6 +8,7 @@
       <mapping ext="gbr" type="PLAIN_TEXT" />
       <mapping ext="hdf5" type="PLAIN_TEXT" />
       <mapping ext="fov" type="PLAIN_TEXT" />
+      <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="license" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
