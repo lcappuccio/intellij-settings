@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Source Code Pro" />
@@ -30,10 +33,6 @@
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
     <option name="IS_ALL_SOFTWRAPS_SHOWN" value="true" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
