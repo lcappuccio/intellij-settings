@@ -1,6 +1,7 @@
 <application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="lcappuccio" />
-    <option name="AUTH_TYPE" value="BASIC" />
+  <component name="GithubAccounts">
+    <account name="lcappuccio" id="3bdc113c-ecec-45db-9f82-9e6ba0fce312">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
