@@ -2,9 +2,8 @@
   <component name="CodeInsightSettings">
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
   </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
-    <option name="FONT_FAMILY" value="Source Code Pro" />
+  <component name="CodeVisionSettings">
+    <option name="enabled" value="false" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
