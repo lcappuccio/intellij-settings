@@ -1,0 +1,15 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>df9adfcfdf92dfcbdf9ddfcbdfcfdf93df98dfc8df9bdf99df9cdf9adfcbdf9bdfcfdf9cdfcbdf9edfcbdf9bdf9cdf9fdfc9df9fdf99dfc8df92df9cdf92dfcfdfcfdfc8df99df9adfccdfc8df9adf9e</token>
+          <option name="name" value="sonarcloud" />
+          <organizationKey>lcappuccio</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
