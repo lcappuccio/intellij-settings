@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'e-commuter'" />
-    <option name="defaultScopeName" value="Project 'e-commuter'" />
-    <option name="SEARCH_SCOPE" value="Project 'e-commuter'" />
+    <option name="customScope" value="Project 'filtering-ads-with-linux'" />
+    <option name="defaultScopeName" value="Project 'filtering-ads-with-linux'" />
+    <option name="SEARCH_SCOPE" value="Project 'filtering-ads-with-linux'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
