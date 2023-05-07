@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'java-keystore'" />
-    <option name="defaultScopeName" value="Project 'java-keystore'" />
-    <option name="SEARCH_SCOPE" value="Project 'java-keystore'" />
+    <option name="customScope" value="Project 'filtering-ads-with-linux'" />
+    <option name="defaultScopeName" value="Project 'filtering-ads-with-linux'" />
+    <option name="SEARCH_SCOPE" value="Project 'filtering-ads-with-linux'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
