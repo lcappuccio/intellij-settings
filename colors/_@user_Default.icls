@@ -1,14 +1,16 @@
 <scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-01-19T11:00:08</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-01-19T12:12:26</property>
+    <property name="modified">2023-08-18T19:35:21</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <attributes>
     <option name="TEXT">
       <value />
