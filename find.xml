@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'randomnamesgenerator'" />
-    <option name="defaultScopeName" value="Project 'randomnamesgenerator'" />
-    <option name="SEARCH_SCOPE" value="Project 'randomnamesgenerator'" />
+    <option name="customScope" value="Project 'filtering-ads-with-linux'" />
+    <option name="defaultScopeName" value="Project 'filtering-ads-with-linux'" />
+    <option name="SEARCH_SCOPE" value="Project 'filtering-ads-with-linux'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
