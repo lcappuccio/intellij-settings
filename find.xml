@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Only changes uncommitted to VCS in file …\EWRS_quelcertoleo.leo.lua" />
+    <option name="defaultScopeName" value="Only changes uncommitted to VCS in file …\EWRS_quelcertoleo.leo.lua" />
+    <option name="SEARCH_SCOPE" value="Only changes uncommitted to VCS in file …\EWRS_quelcertoleo.leo.lua" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
