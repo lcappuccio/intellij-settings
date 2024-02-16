@@ -1,5 +1,5 @@
 <application>
-  <component name="NotificationConfiguration">
+  <component name="NotificationConfiguration" showBalloons="false" systemNotifications="false">
     <notification groupId="IDE and Plugin Updates" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Localization and Internationalization" displayType="NONE" shouldLog="false" />
   </component>
